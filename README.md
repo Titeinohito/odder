@@ -5,7 +5,7 @@
 | ------------------- | ---------- | ----------------- |
 | nickname            | string     | null: false       |
 | password            | string     | null: false       |
-
+| email               | string     | null: false       |
 ### Association
 
 - has_many :moneys
